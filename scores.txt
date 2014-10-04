@@ -1,0 +1,138 @@
+Details for repo 1:
+All 18 tests passed.
+Details for repo 2:
+All 18 tests passed.
+Details for repo 3:
+All 18 tests passed.
+Details for repo 4:
+14 of 18 tests failed.
+Details for repo 5:
+11 of 18 tests failed.
+Details for repo 6:
+All 18 tests passed.
+Details for repo 7:
+4 of 18 tests failed.
+Details for repo 8:
+7 of 18 tests failed.
+Details for repo 9:
+6 of 18 tests failed.
+Details for repo 10:
+All 18 tests passed.
+Details for repo 11:
+All 18 tests passed.
+Details for repo 12:
+18 of 18 tests failed.
+Details for repo 13:
+All 18 tests passed.
+Details for repo 14:
+6 of 18 tests failed.
+Details for repo 16:
+1 of 18 tests failed.
+Details for repo 17:
+All 18 tests passed.
+Details for repo 19:
+All 18 tests passed.
+Details for repo 20:
+1 of 18 tests failed.
+Details for repo 21:
+7 of 18 tests failed.
+Details for repo 22:
+All 18 tests passed.
+Details for repo 23:
+12 of 18 tests failed.
+Details for repo 24:
+All 18 tests passed.
+Details for repo 25:
+12 of 18 tests failed.
+Details for repo 26:
+4 of 18 tests failed.
+Details for repo 27:
+All 18 tests passed.
+Details for repo 28:
+1 of 18 tests failed.
+Details for repo 29:
+All 18 tests passed.
+Details for repo 30:
+5 of 18 tests failed.
+Details for repo 31:
+All 18 tests passed.
+Details for repo 32:
+All 18 tests passed.
+Details for repo 33:
+All 18 tests passed.
+Details for repo 34:
+1 of 18 tests failed.
+Details for repo 35:
+1 of 18 tests failed.
+Details for repo 36:
+2 of 18 tests failed.
+Details for repo 37:
+13 of 18 tests failed.
+Details for repo 38:
+All 18 tests passed.
+Details for repo 39:
+2 of 18 tests failed.
+Details for repo 40:
+1 of 18 tests failed.
+Details for repo 41:
+All 18 tests passed.
+Details for repo 42:
+All 18 tests passed.
+Details for repo 43:
+6 of 18 tests failed.
+Details for repo 44:
+2 of 18 tests failed.
+Details for repo 45:
+All 18 tests passed.
+Details for repo 46:
+Details for repo 47:
+13 of 18 tests failed.
+Details for repo 48:
+8 of 18 tests failed.
+Details for repo 49:
+7 of 18 tests failed.
+Details for repo 50:
+Details for repo 51:
+13 of 18 tests failed.
+Details for repo 52:
+Details for repo 53:
+All 18 tests passed.
+Details for repo 54:
+1 of 18 tests failed.
+Details for repo 55:
+All 18 tests passed.
+Details for repo 56:
+3 of 18 tests failed.
+Details for repo 57:
+13 of 18 tests failed.
+Details for repo 59:
+All 18 tests passed.
+Details for repo 60:
+5 of 18 tests failed.
+Details for repo 61:
+3 of 18 tests failed.
+Details for repo 62:
+Details for repo 63:
+All 18 tests passed.
+Details for repo 64:
+1 of 18 tests failed.
+Details for repo 65:
+All 18 tests passed.
+Details for repo 66:
+All 18 tests passed.
+Details for repo 67:
+All 18 tests passed.
+Details for repo 68:
+All 18 tests passed.
+Details for repo 69:
+All 18 tests passed.
+Details for repo 70:
+5 of 18 tests failed.
+Details for repo 72:
+1 of 18 tests failed.
+Details for repo 73:
+All 18 tests passed.
+Details for repo 74:
+All 18 tests passed.
+Details for repo 75:
+7 of 18 tests failed.
