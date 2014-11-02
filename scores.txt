@@ -1,0 +1,131 @@
+Details for repo 1
+5 of 76 tests failed.
+Details for repo 2
+1 of 76 tests failed.
+Details for repo 3
+2 of 76 tests failed.
+Details for repo 4
+Details for repo 5
+8 of 76 tests failed.
+Details for repo 6
+1 of 76 tests failed.
+Details for repo 7
+Details for repo 9
+7 of 76 tests failed.
+Details for repo 10
+All 76 tests passed.
+Details for repo 11
+1 of 76 tests failed.
+Details for repo 12
+5 of 76 tests failed.
+Details for repo 13
+1 of 76 tests failed.
+Details for repo 14
+1 of 76 tests failed.
+Details for repo 16
+3 of 76 tests failed.
+Details for repo 17
+All 76 tests passed.
+Details for repo 18
+75 of 76 tests failed.
+Details for repo 19
+3 of 76 tests failed.
+Details for repo 20
+1 of 76 tests failed.
+Details for repo 21
+4 of 76 tests failed.
+Details for repo 22
+23 of 76 tests failed.
+Details for repo 23
+1 of 76 tests failed.
+Details for repo 24
+4 of 76 tests failed.
+Details for repo 25
+4 of 76 tests failed.
+Details for repo 26
+1 of 76 tests failed.
+Details for repo 27
+All 76 tests passed.
+Details for repo 28
+6 of 76 tests failed.
+Details for repo 29
+4 of 76 tests failed.
+Details for repo 30
+21 of 76 tests failed.
+Details for repo 31
+1 of 76 tests failed.
+Details for repo 32
+1 of 76 tests failed.
+Details for repo 33
+3 of 76 tests failed.
+Details for repo 34
+Details for repo 35
+1 of 76 tests failed.
+Details for repo 36
+7 of 76 tests failed.
+Details for repo 38
+1 of 76 tests failed.
+Details for repo 39
+4 of 76 tests failed.
+Details for repo 40
+Details for repo 41
+1 of 76 tests failed.
+Details for repo 42
+1 of 76 tests failed.
+Details for repo 43
+22 of 76 tests failed.
+Details for repo 44
+26 of 76 tests failed.
+Details for repo 45
+3 of 76 tests failed.
+Details for repo 46
+Details for repo 47
+76 of 76 tests failed.
+Details for repo 48
+66 of 76 tests failed.
+Details for repo 49
+2 of 76 tests failed.
+Details for repo 50
+6 of 76 tests failed.
+Details for repo 51
+76 of 76 tests failed.
+Details for repo 52
+Details for repo 53
+1 of 76 tests failed.
+Details for repo 54
+2 of 76 tests failed.
+Details for repo 55
+1 of 76 tests failed.
+Details for repo 56
+1 of 76 tests failed.
+Details for repo 59
+4 of 76 tests failed.
+Details for repo 60
+42 of 76 tests failed.
+Details for repo 61
+3 of 76 tests failed.
+Details for repo 62
+Details for repo 64
+16 of 76 tests failed.
+Details for repo 65
+12 of 76 tests failed.
+Details for repo 66
+1 of 76 tests failed.
+Details for repo 67
+10 of 76 tests failed.
+Details for repo 68
+5 of 76 tests failed.
+Details for repo 69
+Details for repo 70
+16 of 76 tests failed.
+Details for repo 71
+76 of 76 tests failed.
+Details for repo 72
+2 of 76 tests failed.
+Details for repo 73
+5 of 76 tests failed.
+Details for repo 74
+18 of 76 tests failed.
+Details for repo 75
+Details for repo 76
+16 of 76 tests failed.
