@@ -1,0 +1,185 @@
+Details for repo 1
+1/./src/userprog/designdoc.txt~
+1/./src/userprog/designdoc.txt
+1/./src/threads/Design Doc~
+1/./src/threads/Design Doc
+Details for repo 2
+2/./src/userprog/designdoc.pdf
+Details for repo 3
+3/./src/userprog/designdoc.md
+Details for repo 4
+Details for repo 5
+5/./src/userprog/designdoc.pdf
+Details for repo 6
+6/./src/userprog/designdoc.pdf
+6/./src/userprog/designdoc.txt
+Details for repo 7
+7/./src/threads/DESIGNDOC
+Details for repo 9
+9/./src/userprog/designdoc.pdf
+Details for repo 10
+10/./src/userprog/DesignDoc.pdf
+10/./src/userprog/DesignDoc~
+Details for repo 11
+11/./src/userprog/designdoc.pdf
+Details for repo 12
+12/./src/userprog/DesignDocumentProject2.docx
+12/./src/userprog/designdoc.pdf
+12/./src/threads/design.pdf
+12/./src/threads/designDocument
+12/./src/threads/DesignDocumentProject1.pdf
+12/./src/threads/design
+Details for repo 13
+13/./src/userprog/designdoc.pdf
+Details for repo 14
+14/./src/userprog/designdoc
+Details for repo 16
+16/./src/userprog/designdoc.pdf
+16/./src/threads/DESIGNDOC
+Details for repo 17
+17/./design
+17/./src/userprog/designdoc~
+17/./src/userprog/designdoc.pdf
+17/./src/userprog/designdoc
+17/./src/threads/design
+Details for repo 18
+18/./src/userprog/designdoc.pdf
+Details for repo 19
+19/./src/userprog/designdoc.pdf
+Details for repo 20
+20/./src/userprog/designdoc.pdf
+Details for repo 21
+21/./src/userprog/designdoc.txt
+21/./src/threads/DESIGNDOC
+Details for repo 22
+22/./src/userprog/designdoc.pdf
+Details for repo 23
+23/./src/userprog/designdoc.pdf
+23/./src/threads/design.txt
+Details for repo 24
+24/./src/userprog/designdoc
+Details for repo 25
+25/./src/userprog/DESIGNDOC.pdf
+25/./src/userprog/DESIGNDOC.md
+Details for repo 26
+26/./src/userprog/designdoc.pdf
+Details for repo 27
+27/./src/userprog/designdoc.pdf
+Details for repo 28
+28/./src/userprog/designdoc.pdf
+Details for repo 29
+29/./src/userprog/designdoc.pdf
+29/./src/threads/Design
+29/./src/threads/Design_Doc~
+29/./src/threads/Design~
+Details for repo 30
+30/./src/userprog/designdoc.txt~
+30/./src/userprog/designdoc.txt
+Details for repo 31
+31/./src/userprog/designdoc
+Details for repo 32
+32/./src/userprog/designdoc.pdf
+Details for repo 33
+33/./src/userprog/designdoc.txt
+33/./src/threads/design_doc.txt
+Details for repo 34
+Details for repo 35
+35/./src/userprog/designdoc.pdf
+35/./src/threads/Design_Doc_Project_1.txt
+Details for repo 36
+36/./src/userprog/designdoc.pdf
+Details for repo 38
+38/./src/userprog/designdoc.txt
+Details for repo 39
+39/./src/userprog/designdoc.pdf
+Details for repo 40
+40/./src/userprog/Design Document
+40/./src/threads/Project 1 Design Document
+Details for repo 41
+41/./doc/Design_Document_Project_1.txt
+41/./src/userprog/designdoc.pdf
+41/./src/userprog/designdoc
+Details for repo 42
+42/./src/userprog/designdoc.pdf
+42/./src/threads/design_doc.txt
+Details for repo 43
+43/./src/userprog/DESIGNDOC
+Details for repo 44
+44/./src/userprog/designdoc.pdf
+Details for repo 45
+45/./Design.txt
+45/./src/userprog/designdoc.pdf
+45/./src/userprog/designdoc.pdf~
+45/./src/threads/Design.txt
+Details for repo 46
+46/./src/userprog/designdoc.pdf
+Details for repo 47
+47/./src/userprog/designdoc.pdf
+Details for repo 48
+Details for repo 49
+49/./src/userprog/designdoc.pdf
+49/./src/threads/DesignDocument.txt
+Details for repo 50
+50/./src/userprog/designdoc.pdf
+Details for repo 51
+51/./src/userprog/designdoc.pdf
+51/./src/threads/DESIGNDOC
+Details for repo 52
+Details for repo 53
+53/./src/userprog/designdoc.pdf
+53/./src/userprog/.~lock.designdoc.pdf#
+Details for repo 54
+54/./src/userprog/DesignDoc.pdf
+Details for repo 55
+55/./src/userprog/designdoc.pdf
+55/./src/userprog/designdoc.doc
+Details for repo 56
+56/./src/userprog/DESIGNDOC.pdf
+56/./src/userprog/DESIGNDOC
+Details for repo 59
+59/./src/userprog/designdoc.pdf
+59/./src/threads/Design
+59/./src/threads/Design_Doc~
+59/./src/threads/Design~
+Details for repo 60
+60/./src/userprog/designdoc.pdf
+Details for repo 61
+Details for repo 62
+Details for repo 64
+64/./src/userprog/designdoc.pdf
+64/./src/threads/DESIGNDOC~
+Details for repo 65
+65/./src/userprog/DESIGNDOC
+Details for repo 66
+66/./src/userprog/DESIGNDOC
+Details for repo 67
+67/./src/userprog/designdoc.pdf
+Details for repo 68
+68/./src/userprog/designdoc.pdf
+68/./src/threads/DESIGNDOC.tmpl
+Details for repo 69
+69/./src/userprog/.DESIGN_DOC.txt.kate-swp
+69/./src/userprog/designdoc.txt
+Details for repo 70
+70/./src/userprog/designdoc.pdf
+Details for repo 71
+71/./src/userprog/DESIGNDOC.pdf
+71/./src/userprog/DESIGNDOC~
+71/./src/userprog/DESIGNDOC
+71/./src/threads/DESIGNDOC~
+71/./src/threads/DESIGNDOC
+Details for repo 72
+72/./src/userprog/designdoc.pdf
+72/./src/userprog/designdoc.txt
+72/./src/threads/design.txt
+72/./src/threads/DESIGNDOC.txt
+72/./src/threads/design
+Details for repo 73
+73/./src/userprog/designdoc.pdf
+Details for repo 74
+74/./src/userprog/DesignDocument.txt
+74/./src/userprog/DesignDocument.pdf
+Details for repo 75
+75/./src/threads/Design Doc.txt~
+75/./src/threads/Design Doc.txt
+Details for repo 76
